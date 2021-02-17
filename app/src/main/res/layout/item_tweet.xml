@@ -46,4 +46,13 @@
         android:layout_toEndOf="@+id/ivProfileImage"
         tools:text="User555" />
 
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tvTime"
+        android:layout_marginTop="2dp"
+        android:background="#1DA1F2"
+        android:backgroundTint="#1DA1F2" />
+
 </RelativeLayout>

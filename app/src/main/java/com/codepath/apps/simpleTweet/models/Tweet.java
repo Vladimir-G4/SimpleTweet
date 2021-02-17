@@ -1,6 +1,6 @@
-package com.codepath.apps.restclienttemplate.models;
+package com.codepath.apps.simpleTweet.models;
 
-import com.codepath.apps.restclienttemplate.TimeFormatter;
+import com.codepath.apps.simpleTweet.TimeFormatter;
 
 import org.json.JSONArray;
 import org.json.JSONException;
